@@ -95,7 +95,7 @@
 #define	DEFAULT_SVR_KEY_FILE	"/etc/apfree.key"
 #define DEFAULT_WWW_PATH		"/etc/www/"
 
-#define DEFAULT_MQTT_SERVER		"wifidog.kunteng.org"
+#define DEFAULT_MQTT_SERVER		"mqtt.dev.7-cat.com"
 
 #define	WIFIDOG_REDIR_HTML_CONTENT	"setTimeout(function() {location.href = \"%s\";}, 10);"
 
